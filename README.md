@@ -1,15 +1,17 @@
-# tugas1
-Manajemen Pemasukan dan Pengeluaran menggunakan Flutter. Fitur ini memungkinkan pengguna untuk mencatat dan mengelola pemasukan serta pengeluaran dari gaji secara efisien. Dengan antarmuka yang intuitif, pengguna dapat dengan mudah menambahkan transaksi, dan memantau arus kas mereka.
+# pastelFinance
+tugas Kelompok Pemrograman Mobile
+Manajemen Pemasukan dan Pengeluaran menggunakan Flutter. 
+Fitur ini memungkinkan pengguna untuk mencatat dan mengelola pemasukan serta pengeluaran dari gaji secara efisien. Dengan antarmuka yang intuitif, pengguna dapat dengan mudah menambahkan transaksi, dan memantau arus kas mereka.
 
 Sistem Informasi Universitas Yapis Papua
 
 1. Adinda Sofia Iriyanti (23621029)
 2. ⁠Revalina Devitriani (23621096)
 3. Zahra Alfiani Safitri (23621107)
-⁠4. Nabilla Dewanti K. Saraswati (23621050)
-⁠5. Muhammad Ekky (23621073)
-6. ⁠Theofilus Alva Efraim Takore (23621098)
-⁠7.Jovian Paulanio Palangan (23621069)
+4. ⁠Nabilla Dewanti K. Saraswati (23621050)
+5. Muhammad Ekky (23621073)
+6. Theofilus Alva Efraim Takore (23621098)
+7. Jovian Paulanio Palangan (23621069)
 
 
 A few resources to get you started if this is your first Flutter project:
