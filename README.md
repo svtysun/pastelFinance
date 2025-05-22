@@ -1,10 +1,16 @@
 # tugas1
+Manajemen Pemasukan dan Pengeluaran menggunakan Flutter. Fitur ini memungkinkan pengguna untuk mencatat dan mengelola pemasukan serta pengeluaran dari gaji secara efisien. Dengan antarmuka yang intuitif, pengguna dapat dengan mudah menambahkan transaksi, dan memantau arus kas mereka.
 
-A new Flutter project.
+Sistem Informasi Universitas Yapis Papua
 
-## Getting Started
+Adinda Sofia Iriyanti (23621029)
+⁠Revalina Devitriani (23621096)
+⁠Zahra Alfiani Safitri (23621107)
+⁠Nabilla Dewanti K. Saraswati (23621050)
+⁠Muhammad Ekky (23621073)
+⁠Theofilus Alva Efraim Takore (23621098)
+⁠Jovian Paulanio Palangan (23621069)
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
