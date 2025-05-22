@@ -13,12 +13,17 @@ Sistem Informasi Universitas Yapis Papua
 6. Theofilus Alva Efraim Takore (23621098)
 7. Jovian Paulanio Palangan (23621069)
 
+Sebelum menjalankan aplikasi, pastikan kamu sudah menginstal:
+- Flutter SDK (versi stabil terbaru)
+- Android Studio atau VS Code
+- Android Emulator atau Perangkat Android/iOS untuk uji coba
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Langkah Instalasi
+- Clone repositori ini
+git clone https://github.com/svtysun/pastelFinance.git
+cd pastelFinance
+- Install dependencies Flutter
+flutter pub get
+- Jalankan di emulator atau perangkat fisik
+flutter run
+(Pastikan emulator atau device kamu sudah aktif).
